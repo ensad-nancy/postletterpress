@@ -1,4 +1,4 @@
-var letters = {
+var params = {
   "a":[
     {"letter_A1.png": 111.196},
     {"letter_A2.png": 116.898},
@@ -105,6 +105,9 @@ var letters = {
     {"letter_Y2.png": 68.491}
   ],
   "z":[
+    {"letter_Z1.png": 97.76}
+  ],
+  "_":[
     {"letter_Z1.png": 97.76}
   ]
 
